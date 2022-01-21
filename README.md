@@ -13,10 +13,10 @@ This app is part of the [Android Basics in Kotlin] course from Google, see [Unit
 
 Environment
 
-- Kotlin 1.5.21
+- Kotlin 1.6.10
 - Android Studio Arctic Fox 2020.3.1
-- Gradle Plugin 7.0.0
+- Gradle Plugin 7.0.4
 
 ----
 
-updated: 2021-08-15
+updated: 2022-01-21
