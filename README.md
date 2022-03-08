@@ -1,5 +1,4 @@
-Lemonade App
-============
+# Lemonade App
 
 This app is part of the [Android Basics in Kotlin] course from Google, see [Unit 1] and the [Project Lemonade App] Codelab.
 
@@ -14,9 +13,9 @@ This app is part of the [Android Basics in Kotlin] course from Google, see [Unit
 Environment
 
 - Kotlin 1.6.10
-- Android Studio Arctic Fox 2020.3.1
-- Gradle Plugin 7.0.4
+- Android Studio Bumblebee 2021.1.1
+- Gradle Plugin 7.1.2
 
 ----
 
-updated: 2022-01-21
+updated: 2022-03-08
