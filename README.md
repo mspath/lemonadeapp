@@ -10,9 +10,9 @@ This app is part of the [Android Basics in Kotlin] course from Google, see [Unit
 
 Environment
 
-- Kotlin 1.8.0
-- Android Studio Electric Eel 2022.1.1
-- Gradle Plugin 7.4.2
+- Kotlin 1.8.10
+- Android Studio Flamingo 2022.2.1
+- Gradle Plugin 8.0.0
 
 ---
 
@@ -20,5 +20,5 @@ Environment
 language: kotlin
 repo: lemonadeapp
 status: archived
-updated: 2022-04-04
+updated: 2022-05-02
 ```
